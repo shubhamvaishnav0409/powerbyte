@@ -1,0 +1,26 @@
+{
+  "short_name": "PowerByte",
+  "name": "PowerByte: An app that helps you to manage power",
+  "description": "Web that intereact with hardware and displays real time data and by ML model we predict your usage and suggest saving method and also we displays data of individual device",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
